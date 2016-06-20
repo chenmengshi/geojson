@@ -1,25 +1,9 @@
 {
     "type": "Feature",
     "properties": {
-        "ID_0": 148,
-        "ISO": "MMR",
-        "NAME_0": "Myanmar",
-        "ID_1": 1858,
-        "NAME_1": "Kayin",
-        "ID_2": 22150,
-        "NAME_2": "Hpa-an",
-        "ID_3": 39209,
-        "NAME_3": "Kawkareik",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
-        "HASC_3": null,
-        "TYPE_3": "Village|Township",
-        "ENGTYPE_3": "Village|Township",
-        "VALIDFR_3": "Unknown",
-        "VALIDTO_3": "Present",
-        "REMARKS_3": null,
-        "Shape_Leng": 1.4871267501400001,
-        "Shape_Area": 0.124188731542
+        
+        "NAME_0": "Hpa-an"
+       
     },
     "geometry": {
         "type": "Polygon",
@@ -384,25 +368,8 @@
 {
     "type": "Feature",
     "properties": {
-        "ID_0": 148,
-        "ISO": "MMR",
-        "NAME_0": "Myanmar",
-        "ID_1": 1858,
-        "NAME_1": "Kayin",
-        "ID_2": 22150,
-        "NAME_2": "Hpa-an",
-        "ID_3": 39210,
-        "NAME_3": "Kya-In Seikkyi",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
-        "HASC_3": null,
-        "TYPE_3": "Village|Township",
-        "ENGTYPE_3": "Village|Township",
-        "VALIDFR_3": "Unknown",
-        "VALIDTO_3": "Present",
-        "REMARKS_3": null,
-        "Shape_Leng": 4.6596640317700002,
-        "Shape_Area": 0.68200610348000001
+         
+        "NAME": "Kayin" 
     },
     "geometry": {
         "type": "Polygon",
