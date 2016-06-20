@@ -2,7 +2,7 @@
     "type": "Feature",
     "properties": {
         
-        "NAME_0": "Hpa-an"
+        "NAME": "Hpa-an"
        
     },
     "geometry": {
