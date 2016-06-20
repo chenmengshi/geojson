@@ -21,7 +21,7 @@
       "name" : "Myawaddy" 
     },
       "geometry": {
-        "type": "MultiPolygon",
+        "type": "Polygon",
         "coordinates": [
             [
                 [
