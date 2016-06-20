@@ -1,7 +1,18 @@
 {
     "type": "Feature",
-    "properties": {        
-        "name": "Myawaddy2"
+    "properties": {
+        "SD_Pcode": "MMR003",
+        "State_Divi": "Kayin",
+        "D_Pcode": "MMR003D002",
+        "District": "Myawaddy",
+        "TS_Pcode": "MMR003005",
+        "Township": "Myawaddy",
+        "Town_Pcode": "MMR003005701",
+        "Town": "Myawaddy Town",
+        "Town_Mya": "jr0wD",
+        "Longitude": 98.5167,
+        "Latitude": 16.683299999999999,
+        "Level": "Township"
     },
     "geometry": {
         "type": "Point",
@@ -11,3 +22,5 @@
         ]
     }
 }
+
+
