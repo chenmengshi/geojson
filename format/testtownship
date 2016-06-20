@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "properties": {        
+        "name": "Myawaddy2"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            98.5167,
+            16.6833
+        ]
+    }
+}
