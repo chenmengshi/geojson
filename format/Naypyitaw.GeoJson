@@ -87,7 +87,7 @@
   },
   { "type": "Feature",
     "properties": {
-	"name" : "Poke Ba Thi Ri"unt"
+	"name" : "Poke Ba Thi Ri"
 	},
 	"geometry": {
 	"type": "Polygon",
